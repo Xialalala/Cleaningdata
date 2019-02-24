@@ -7,5 +7,5 @@
 
 ##Files included in the repository
 ### CodeBook.md: a code book that decsribes the codes that I write to clean up the data
-###Analysis.R: the code to clean the data
+###Analysiscode.R: the code to clean the data
 ###FinalData.txt: is the final tidy data exported after performing the code.
